@@ -1,0 +1,2 @@
+PairAcc,PairAUC,n_eval,pred_time_key,reference
+0.491294713253521,0.796424423879514,2382,pseudotime,ordinal(cell_type)
